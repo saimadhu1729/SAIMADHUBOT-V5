@@ -31,9 +31,9 @@ global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be dis
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD5' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Cheems Bot" //ur sticker watermark author
-global.wm = "Xeon Bot Inc." //ur watermark
+global.packname = "saimadhu" //ur sticker watermark packname
+global.author = "saimadhu" //ur sticker watermark author
+global.wm = "saimadhu." //ur watermark
 
 // Other
 global.sessionName = 'session'

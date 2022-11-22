@@ -61,7 +61,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD5/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/saimadhu1729/SAIMADHUBOT/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -72,8 +72,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD5.git
-cd CheemsBot-MD5
+git clone https://github.com/saimadhu1729/SAIMADHUBOT
+cd SAIMADHUBOT
 
 npm start
 ```
@@ -89,8 +89,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD5
-cd CheemsBot-MD
+git clone https://github.com/saimadhu1729/SAIMADHUBOT
+cd SAIMADHUBOT
 npm start
 ```
 ## `For VPS`
@@ -101,8 +101,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD5
-cd CheemsBot-MD5
+git clone https://github.com/saimadhu1729/SAIMADHUBOT
+cd SAIMADHUBOT
 npm start
 ```
 ## `For 24/7 Activation (Termux)`

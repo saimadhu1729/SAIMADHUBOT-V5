@@ -2,7 +2,7 @@
 
 <h1 align="center">SAIMADHUBOT<br></h1>
 <p align="center">
-<img src="https://ibb.co/xLQ5BMc" alt="animated" width="540" height="280" />
+<img src="https://ibb.co/xLQ5BMc" alt="image" width="540" height="280" />
 </p>
 
 <p align="center">

@@ -3,7 +3,7 @@
 <h1 align="center">SAIMADHUBOT<br></h1>
 
 <p align="center">
-<img src="https://i.ibb.co/xLQ5BMc/3c8bd21559f92e4779ce9fc0e6df71dd.jpg" alt="3c8bd21559f92e4779ce9fc0e6df71dd" border="0">" alt="20210409-002747" border="0">
+<img src="https://i.ibb.co/xLQ5BMc/3c8bd21559f92e4779ce9fc0e6df71dd.jpg" alt="3c8bd21559f92e4779ce9fc0e6df71dd" border="0"> 
 </p>
 <p align="center">
 <a href="https://github.com/saimadhu1729">

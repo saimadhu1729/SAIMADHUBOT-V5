@@ -22,14 +22,14 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.owner = ['919505579643'] //ur number
-global.ownernomer = "916909137213" //ur number
-global.ownertag = '916909137213' //ur tag number
-global.premium = ['916909137213'] //ur premium number
+global.ownernomer = "919505579643" //ur number
+global.ownertag = '919505579643' //ur tag number
+global.premium = ['919505579643'] //ur premium number
 global.botname = 'saimadhubot' //ur bot name
 global.ownername = "saimadhu"
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD5' //script link
+global.botscript = 'https://github.com/saimadhu1729/SAIMADHUBOT' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "saimadhu" //ur sticker watermark packname
 global.author = "saimadhu" //ur sticker watermark author

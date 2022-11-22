@@ -27,16 +27,16 @@ global.ownertag = '919505579643' //ur tag number
 global.premium = ['919505579643'] //ur premium number
 global.botname = 'saimadhubot' //ur bot name
 global.ownername = "saimadhu"
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.linkz = "https://youtube.com/channel/UCvWDlkYjf5_ytqqebR9DAHg" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UCvWDlkYjf5_ytqqebR9DAHg" //ur website to be displayed
 global.botscript = 'https://github.com/saimadhu1729/SAIMADHUBOT' //script link
-global.themeemoji = "🦄" //ur theme emoji
+global.themeemoji = "🙍" //ur theme emoji
 global.packname = "saimadhu" //ur sticker watermark packname
 global.author = "saimadhu" //ur sticker watermark author
 global.wm = "saimadhu." //ur watermark
 
 // Other
-global.sessionName = 'session'
+global.sessionName = 'saimadhu'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {

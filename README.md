@@ -3,7 +3,7 @@
 <h1 align="center">SAIMADHUBOT<br></h1>
 
 <p align="center">
-<img src="https://i.ibb.co/M97QfLt/saimadhubot-psd.jpg" alt="saimadhubot-psd" border="10"> 
+<img src="https://i.ibb.co/M97QfLt/saimadhubot-psd.jpg" alt="saimadhubot-psd" border="0"> 
 </p>
 <p align="center">
 <a href="https://github.com/saimadhu1729">

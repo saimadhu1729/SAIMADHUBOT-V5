@@ -10,7 +10,7 @@
 </p>
 
 
-# <h1 align="center"> ```BOT information```<br></h1><p align="center">
+# <h1 align="center"> ```BOT INFORMATION```<br></h1><p align="center">
 <a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD5/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD5?color=blue&style=flat-square"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD5/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD5?color=red&style=flat-square"></a>
